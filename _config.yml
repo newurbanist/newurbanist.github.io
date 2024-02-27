@@ -1,23 +1,6 @@
-# Setup
-title:               new urbanist
-tagline:             'a personal site'
-description:         'the low-gravity overthoughts of Jen Fox'
-url:                 newurbanist.github.io
-baseurl:             ''
-paginate:            5
-permalink:           pretty
-theme:               lanyon
-
-# About/contact
-author:
-  name:              Jen Fox
-  url:               https://twitter.com/jenfox54
-  email:             jenfox54@gmail.com
-
-# Gems
-plugins:
-  - jekyll-paginate
-
-# Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
