@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 
 # Places should be designed for humans
