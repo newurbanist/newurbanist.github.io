@@ -1,13 +1,12 @@
 # Setup
-title:               newurbanist
-
-tagline:                       sustainable development word vomit
-description:         unhinged pedestrian energy
-url:                 https://newurbanist.github.io
+title:               new urbanist
+tagline:             'a personal site'
+description:         'the low-gravity overthoughts of Jen Fox'
+url:                 newurbanist.github.io
 baseurl:             ''
-
 paginate:            5
 permalink:           pretty
+theme:               lanyon
 
 # About/contact
 author:
@@ -21,4 +20,4 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics_id: UA-146052-15
+google_analytics_id: #UA-XXXX-Y
