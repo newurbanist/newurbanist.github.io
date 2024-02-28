@@ -23,19 +23,19 @@ Hi, I'm Jen. I'm an
 
 
 #### Flaws
-- Not intelligent
+- Unintelligent
 - Struggles with every day tasks
 - Maintains twisted, false ideas of what is cool
-- Eight-minute attention span (max)
-- Continued existence defies the laws of natural selection
-- Can be mean if you dislike maps or park your car in the bike lane
+- Eight-minute attention span max
+- Continued survival defies the laws of natural selection
+- Can be mean if you parked your car in the bike lane
 
 
 
 
 
 #### Facts
-_Just stuff that happens to be true_
+That I just want to share with you
 - I love maps, they are so cool
 - I enjoy running very long distances (but only for the bit)
 - I occassionally teach laser cutting classes in a chaotic anarchist makerspace
