@@ -11,15 +11,14 @@ Hi, I'm Jen. I'm an
 - urban planner (zero hours of practice logged)
 - aspiring benevolent dictator (recovered Sims 2 addict)
 
-\
-\
+\n
 
 #### Skills
 - Nice
 - Funny
 - Cool
 
-\
+\n
 
 #### Flaws
 - Not intelligent
@@ -29,7 +28,7 @@ Hi, I'm Jen. I'm an
 - Continued existence defies the laws of natural selection
 - Can be mean if you dislike maps or park your car in the bike lane
 
-\
+\n
 
 #### Facts
 _Just stuff that happens to be true_
