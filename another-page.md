@@ -8,14 +8,13 @@ layout: default
 
 <br />
 
-Hi, I'm Jen. I'm an
-- economist (ran a multivariate regression once)
-- urban planner (zero hours of practice logged)
-- aspiring benevolent dictator (would abolish 80% of zoning policies)<br />
-
+Hi, I'm Jen. I studied as an economist (read: ran an OLS regression, once) and urban planner (read: aspiring benevolent dictator), and emerged a passionate advocate for transit-oriented development, form-based zoning reform and walkable cities.
+<br />
 <br />
 
-I graduated in 2022 from MIT with dual-degrees in Economics and Urban Planning. I interned as a writer for nearly a year during COVID, crafting language for Tesla's website, app, events and products. On a project partnering with SpaceX to launch stuff into space at Cape Canaveral, I met my longest-term manager at Tesla — a leader who left an immense impact on me as both a mentor and a friend. On her Growth team, I managed a fast-paced technical project that drove millions of dollars in both cost savings and direct revenue.
+I graduated in 2022 from MIT with dual-degrees in Economics and Urban Planning. I interned and worked as a copywriter at Tesla for nearly two years, writing for Tesla's website, events and products.
+
+As a writer, I managed many projects that had very little to do with writing. To be unbearable, I might say I wore many hats. In one partnership that happened to involve launching a bunch of stuff into space on a Space Force Base, I met an incredible leader at Tesla who took me under her wing and helped me take on more impactful work. On her team, I managed a fast-paced technical project that created millions of dollars of value, both in direct revenue and through reassigned labor costs.
 
 <br /><br />
 
@@ -23,10 +22,11 @@ I graduated in 2022 from MIT with dual-degrees in Economics and Urban Planning. 
 
 | Strengths | Weaknesses |
 | :---- | :---- |
-| Kind | Kind of dumb |
-| Easily entertained (Google Earth + Geoguessr) | Can be mean if you park your car in the bike lane |
-| Teaches laser cutting classes | Would rather bike three centuries than fold laundry |
-| Likes running long distances | Terrible at running |
+| Kind in most cases | Mean if you park in a bike lane |
+| Easily entertained (i.e. will play Geoguessr for hours) | Easily bored (i.e. during non-Geoguessr activities) |
+| Teaches laser cutting classes | Has zero understanding of the physics of lasers |
+| Go-getter attitude with bias for action | Would rather bike three centuries than fold laundry |
+| Enjoys running long distances | Pretty shit at running |
 
 
 
