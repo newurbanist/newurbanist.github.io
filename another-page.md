@@ -3,8 +3,7 @@ layout: default
 ---
 
 ### Places should be designed for people
-#### And other ways I think about the world
-* * *
+#### Plus other things I think
 
 <br />
 
